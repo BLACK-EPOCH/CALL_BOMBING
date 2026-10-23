@@ -49,7 +49,9 @@ The project focuses on terminal customization, Python learning, and understandin
 ### 1. Update Termux
 
 ```bash
-pkg update && pkg upgrade -y```
-```bash
-pkg install git -y```
+pkg update && pkg upgrade -y
+pkg install git -y
+cd CALL_BOMBING
+pip install -r requirements.txt
+
 
