@@ -23,7 +23,7 @@
 
 ## 📌 About The Project
 
-**CALL BOMBING** is a cyber-themed Python terminal project developed by **MR. REBIT ** for educational purposes and cybersecurity awareness.
+**CALL BOMBING** is a cyber-themed Python terminal project developed by **MR. REBIT** for educational purposes and cybersecurity awareness.
 
 The project focuses on terminal customization, Python learning, and understanding responsible cybersecurity practices.
 
