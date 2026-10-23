@@ -49,4 +49,7 @@ The project focuses on terminal customization, Python learning, and understandin
 ### 1. Update Termux
 
 ```bash
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y```
+```bash
+pkg install git -y```
+
