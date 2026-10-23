@@ -51,7 +51,7 @@ The project focuses on terminal customization, Python learning, and understandin
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clonehttps://github.com/BLACK-EPOCH/CALL_BOMBING.git
+git clone https://github.com/BLACK-EPOCH/CALL_BOMBING.git
 cd CALL_BOMBING
 pip install -r requirements.txt
 python CALL_BOMBING.py
