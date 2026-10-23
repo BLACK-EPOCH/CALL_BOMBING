@@ -46,12 +46,12 @@ The project focuses on terminal customization, Python learning, and understandin
 
 ## 📦 Installation
 
-### 1. Update Termux
+### 1. Termux
 
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
 cd CALL_BOMBING
 pip install -r requirements.txt
-
+python CALL_BOMBING.py
 
